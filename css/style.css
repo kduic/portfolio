@@ -1,0 +1,153 @@
+.myname{
+    font-family: Noto Serif;
+    font-size: 60px;
+    color: #844A8E;
+}
+.aboutme{
+    font-family: Noto Serif;
+    font-size: 25px;
+    color: #844A8E;
+}
+.homebutton{
+    font-family: Noto Serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+.careertitle{
+    font-family: Noto Serif;
+    
+}
+.collegetitle{
+    font-family: Noto Serif;
+    
+}
+.hobbytitle{
+    font-family: Noto Serif;
+    
+}
+.careercard{
+    font-family: Noto Serif;
+    font-size: 40px;
+    color:#652770;
+}
+.collegecard{
+    font-family: Noto Serif;
+    font-size: 40px;
+    color: #652770;
+}
+.hobbycard{
+    font-family: Noto Serif;
+    font-size: 40px;
+    color: #652770;
+}
+.paratext{
+    font-family: Noto Serif;
+    color:#844A8E;
+}
+.maintitle{
+    font-family: Noto Serif;
+    font-size: 50px;
+    color: #54195e;
+}
+.secondpara{
+    font-family: Noto Serif;
+    color:#833391;
+}
+.cardtitle{
+    font-family: Noto Serif;
+    font-weight: 600;
+    color: #862896;
+}
+.cardtext{
+    font-family: Noto Serif;
+}
+.uni{
+    font-family: Noto Serif;
+    font-weight: 500;
+    color:#7c218a;
+}
+.unitext{
+    font-family: Noto Serif;
+    color:#783e82;
+}
+.titlee{
+    font-family: Noto Serif;
+    color:#5c1567;
+}
+.hobbytext{
+    font-family: Noto Serif;
+    color:#72307d;
+}
+.cardd{
+    font-family: Noto Serif;
+    font-weight: bold;
+    color:#882d98;
+}
+.explain{
+    font-family: Noto Serif;
+}
+.color{
+    background-color: #E5D3E8;
+}
+.colorsecond{
+    color: #E5D3E8;
+}
+.table{
+    border: 3px solid black;
+    
+}
+.schedule{
+    text-align: center;
+    font-family: Noto Serif;
+}
+.list{
+    font-family: Noto Serif;
+}
+.titlejob{
+    font-family: Noto Serif;
+    font-weight: bold;
+    color:#631e6f;
+}
+.list{
+    font-family: Noto Serif;
+}
+.longlist{
+    font-family: Noto Serif;
+}
+.cupcakes{
+    font-family: Noto Serif;
+    font-weight: 600;
+    color:#6b3b74;
+}
+.secondtitle{
+    font-family: Noto Serif;
+    font-weight: bold;
+    color:#631e6f;
+}
+.tablelist{
+    font-family: Noto Serif;
+}
+.copyright{
+    text-align: right;
+}
+.contact{
+    text-align: left;
+}
+.namee{
+    text-align: left;
+}
+.instaicon{
+    color: white;
+    position: relative;
+    left: 620px;
+    top: 0px;
+}
+.mail{
+    color: white;
+    position: relative;
+    left: 525px;
+    top: 0px;
+}
+.font{
+    font-family: Noto Serif;
+}
